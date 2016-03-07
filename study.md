@@ -11,13 +11,16 @@ As you read, pay special attention to addressing the following:
 
 -   Identify use cases where relational or non-relational databases are
     appropriate.
-⋅⋅* For websites that manage *big data* like Facebook, Google and Amazon, non-relational database is more appropriate due to its scalability and efficiency.
-⋅⋅* Relational database is useful if you are building low-volume, medium complexity web app like our Project 2.
+⋅⋅⋅For websites that manage *big data* like Facebook, Google and Amazon, non-relational database is more appropriate due to its scalability and efficiency.
+
+⋅⋅⋅Relational database is useful if you are building low-volume, medium complexity web app like our Project 2.
 
 -   List three strengths of relational databases.
-⋅⋅* Proven legacy technology with stable code base
-⋅⋅* Easier to write SQL queries vs programming skills to code in NoSQL systems.
-⋅⋅* Normalization - data is organized in a database where relationships are enforced with constraints, ie primary and foreign keys. This provides entity and referential integrity between/among multiple tables, eliminate duplicacy and inconsistency.
+⋅⋅⋅Proven legacy technology with stable code base
+
+⋅⋅⋅Easier to write SQL queries vs programming skills to code in NoSQL systems.
+
+⋅⋅⋅Normalization - data is organized in a database where relationships are enforced with constraints, ie primary and foreign keys. This provides entity and referential integrity between/among multiple tables, eliminate duplicacy and inconsistency.
 
 -   List three strengths of non-relational databases.
 ⋅⋅* Scale out - can handle large amount of data without using a lot of disk space.
