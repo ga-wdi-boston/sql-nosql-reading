@@ -9,8 +9,7 @@ Read the following articles thoroughly. Practice active reading by taking notes.
 
 As you read, pay special attention to addressing the following:
 
-### Identify use cases where relational or non-relational databases are
-    appropriate.
+### Identify use cases where relational or non-relational databases are appropriate.
 
 For websites that manage *big data* like Facebook, Google and Amazon, non-relational database is more appropriate due to its scalability and efficiency.
 
@@ -31,7 +30,6 @@ Scale out - can handle large amount of data without using a lot of disk space.
 Handle unstructured and semi-structured data - allows for more flexibile schema and datatypes (like JSON).
 
 Eventual consistency - data is replicated/distributed on multiple servers, allows for low-latency reads. Any changes to data will *eventually* be updated across all servers so the users will have the up-to-date copy.
-
 
 
 
