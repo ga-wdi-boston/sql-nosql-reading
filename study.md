@@ -22,4 +22,6 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+NoSQL databases are relational databases and are more scalable. It is meant to address issues other relational databases can't including being able to handle large volumes of constantly changing structured and unstructed data. NoSQL helps development teams work in sprints, pushing code much more frequently. Relational databases scale vertically meaning a single server has to host the entire database. NoSQL is able to support auto-sharding which helps to spread data across multiple servers rather than loading all data on one.
+
+MongoDB is a document-oriented database, it stores data in collections made out of individual documents rather than tables.
