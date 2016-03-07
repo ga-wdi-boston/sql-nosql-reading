@@ -33,8 +33,7 @@ Eventual consistency - data is replicated/distributed on multiple servers, allow
 
 
 
-##### After you've finished your study, summarize your notes to the following section
-and open a pull request.
+##### After you've finished your study, summarize your notes to the following section and open a pull request.
 
 Be prepared to share your notes with others before the discussion. Everyone
 should have something to contribute.
