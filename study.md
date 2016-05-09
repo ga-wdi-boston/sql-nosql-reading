@@ -22,4 +22,9 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Types of data are structured, semi-structured, unstructured and polymorphic. Types of NoSQL databases are document databases, graph stores, key-value stores and wide-column stores. NOSQL databases are better than relational databases for large volume, frequently pushed, object oriented programming projects. NoSQL database schemas can be changed and the databases support auto-sharding as well as automatic replication.
+
+Mongo DB, a non-relational database, is good for product data management and e-commerce as well as website content management (i.e. storing comments).  MongoDB has collections made of documents, not tables made of rows and uses nested hashes to store data.  
+
+Diaspora has hundreds of independent servers (aka pods) which each have their own database that communicates to other pods through an API.  If one pod goes down, others will not follow suit.
+Each pod is a Ruby on Rails app.
