@@ -22,4 +22,17 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+-   Identify use cases where relational or non-relational databases are
+    appropriate.
+    Relational: 1 type (mySQL)
+    non-relational: many types
+
+-   List three strengths of relational databases.
+    1)Data stored only once which makes it efficient
+    2)Better security
+    3)Complex queries can be carried out.
+
+-   List three strengths of non-relational databases.
+    1) Large volumes of rapidly changing structured, semi-structured, and unstructured data
+    2) Object-oriented programming that is easy to use and flexible
+    3) Agile sprints, quick schema iteration, and frequent code pushes
