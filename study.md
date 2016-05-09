@@ -22,4 +22,18 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Relational databases are fine for relatively centralized, unchanging, and/or
+simple data structures.  Non-relational databases allow for a lot more rapid
+scalability.
+
+Non-relational strengths:
+
+-  Make use of geographically dispersed servers and hardware to store data
+-  Make use of agile development, with frequent code pushes and iteration
+-  Can use a variety of data structure types
+
+Relational databases:
+
+-  No inherent risk of duplicated data
+-  Can use caching to make accessing join tables faster
+-  Can nuke and pave from backlog data to fix invalid data caches
