@@ -22,4 +22,18 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Relational databases are really good for:
+  small-medium amounts of data where every column is known in advance.
+  (employer/employee/company)
+  (books/authors/reviews)
+Rdbs stay consistent, have been around since the 1970s (stable), and force
+a dev to plan out a schema before starting to code
+
+NRdbs are really good for:
+large amounts of data that may have changing column information.
+(tv show database in sarahmei's example)
+(event logging)
+(product catalogs)
+NRdbs are easier to scale, allow for new "column" adds without taking the db
+down (although they're not in column form), allow for unstructured data to be
+saved. 
