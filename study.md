@@ -22,4 +22,6 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Relational databases strengths are that its fairly simple to connect tables in the database, limited redundancy, and can avoids inconsistentcies.
+
+Non-relational databases strengths are a good representation of real world entities, easy to represent hierarchies, and easy representing difficult data
