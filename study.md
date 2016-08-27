@@ -22,4 +22,18 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+1. It depends on the use case scenario. Each database systems has its own advantages and disadvantages. Very often it isn't possible to predict with 100% certanty which database system would be the best for the given model. Sometimes relational database seems like a good option to start with, but then because datasets can change quickly, NoSQL seems like a better option along the way or vice versa.
+
+If data changes rapidly or growing out quickly or it isn't structured well, then NoSQL can be a good option. Otherwise, SQL.
+
+2. Relational database (SQL)
+Strengths
+- It is developed 1970. It is well tested open source database system, so it provides a good support;
+- It is a structured query language which speeds up the proccess for defining and manipulating the data;
+- Easy to use. Intuitive.
+
+3. Non-relational database (NoSQL)
+Strengths
+- Auto-sharding provides ability to spread data across arbitrary number of servers;
+- Quick schema iteration gives ability to evolve data schema without modifying existing data;
+- It is a good option for unstructred data.
