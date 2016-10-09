@@ -22,7 +22,7 @@ should have something to contribute.
 
 ## Summary
 
-### NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
+### [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
 
 NoSQL dbs scale better, are more agile, and take advantage of modern storage and processing capabilities. They're more scaleable/perform better.
 
@@ -36,10 +36,10 @@ Other benefits:
   - integrated caching (rather than expensive 3rd party services)
 
 Four kinds of NoSQL dbs:
-    - document dbs: keys are paired with "documents," which can hold multiple key-value pairs, key-array pairs, or other documents. (basically: JSON)
-    - graph stores: store info about networks of data (social connections)
-    - key-value stores: the simplest. all items in db are key:value
-    - wide-column stores: store columns (instead of rows); optimized for large dataset queries
+  - document dbs: keys are paired with "documents," which can hold multiple key-value pairs, key-array pairs, or other documents. (basically: JSON)
+  - graph stores: store info about networks of data (social connections)
+  - key-value stores: the simplest. all items in db are key:value
+  - wide-column stores: store columns (instead of rows); optimized for large dataset queries
 
 https://docs.mongodb.com/ecosystem/use-cases/hierarchical-aggregation/ -- example of memoizing, yes?
 
