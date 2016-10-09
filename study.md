@@ -22,4 +22,22 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+-   Identify use cases where relational or non-relational databases are
+    appropriate.
+    Non-relational databases are most appropriately used in applications that do
+    not require relationships between entities. Examples of this include a
+    product catalog and a basic television episode information site.
+    Relational databases are most appropriately used in applications that have
+    relationships between entities. Examples include a recipe app that allows
+    users to search by ingredients or a television episode information site that
+    allows users to see other shows in which the cast has appeared.
+
+-   List three strengths of relational databases.
+  - Allows multiple tables to be joined without duplication of information
+  - Centralized database allows the ability for a wholesale change to occur
+  - No manual joining necessary
+
+-   List three strengths of non-relational databases.
+  - Much faster than relational databases for deeply nested non-relational data
+  - Not susceptible to SQL injection
+  - Able to be sharded across multiple servers
