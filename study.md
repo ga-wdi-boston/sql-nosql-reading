@@ -22,4 +22,9 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+- Relational databases are useful when you have nested data where subsets are of the same type as any ancestor set.  This way you can store a reference to the subset inside the parent set without duplicating the data itself.
+-
+
+- Non-relational databases can be more easily delocalized across many servers.
+- NoSQL databases can also be more flexible if you're working with data whose schema changes rapidly because you do not need to migrate your ENTIRE database each time you want to add or change a relationship.
+- 
