@@ -22,4 +22,13 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Non-relational DB:
+NoSQL more scalable and provide superior performance.
+Data model addresses large volumes of changing data (structured, semi, or unstructured)
+Doesn't require predefined schema = changes in real-time w/o interrupting service.
+Faster development, reliable code integration, less db administration.
+Auto-Sharding
+
+Relational DB:
+Schemas must be defined before adding data.
+Scaled vertically - single server for entire db
