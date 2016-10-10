@@ -22,4 +22,19 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+At a very high level, the tradeoff seems to be structure vs. flexibility.
+Relational databases allow you to explicitly define the structure of your data
+and quickly perform queries to find data with an explicit relationship to other
+data. Non-relational databases sacrifice this for the ability to rapidly iterate
+and push new code without taking the database offline, and to scale quickly by
+adding new servers to the server pool.
+
+Relational databases are excellent for:
+- data with an 'implicit schema', i.e. data whose structure matters
+- social data where links between pieces of data are an essential feature
+- data that isn't likely to suddenly change or expand
+
+Non-relational databases are excellent for:
+- development that happens in short cycles with lots of frequent updates
+- horizontal distribution of data across many servers with minimal loss of performance, allowing for great scalability
+- dynamic structure, with easy addition of new fields without taking the database offline
