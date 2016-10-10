@@ -22,4 +22,10 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+- Relational databases are useful when you have nested data where subsets are of the same type as any ancestor set.  This way you can store a reference to the subset inside the parent set without duplicating the data itself.
+- SQL databases are also fairly ubiquitous, so they are useful in the sense that pretty much everyone knows how to use them and there are a lot of good resources for learning how to use them.
+- Queries are still very fast, even though modifying the database itself can take some time depending on what you're doing.
+
+- Non-relational databases can be more easily delocalized across many servers.
+- NoSQL databases can also be more flexible if you're working with data that's poorly defined or whose schema changes rapidly because you do not need to migrate your ENTIRE database each time you want to add or change a relationship.
+- There are many more options for modeling your data, i.e., with a graph-model, document-model, wide-column, or the standard SQLesque key-value model.
