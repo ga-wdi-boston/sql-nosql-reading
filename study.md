@@ -22,4 +22,21 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+NoSQL DB Types
+document DB - pair each key with document
+  documents can contain key-value pairs, key-array pairs, or nested documents
+  graph stores - stor info about networks of data, i.e social connections
+  key-value - key-value pairs
+  wide-column - optimized for queries for large datasets
+    stores columns of data together, instead of rows
+Benefits
+  more scalable
+  optimized for rapidly changing unstructured data
+  object oriented programming
+Dynamic data
+  allows for manipulation of schema with little downtime
+  support for auto-sharding
+separating data across servers
+Replication, basically backups
+
+Or don’t use it for relational DBs
