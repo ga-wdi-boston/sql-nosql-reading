@@ -22,4 +22,13 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Relational: Tabular Data, granular security controls, strict schema requirements, accuracy is critical.
+NOSQL: A Single View application aggregates data from multiple sources into a central repository to create a single view of anything. Real Time Analytics.
+
+1) Relational database normalization means that each fact in your data is stored only once, so you shouldn't get data anomalies.
+2) Authentication and access privileges are handled better in SQL.
+3) You have different types of tabular data that you want to query and manage using dynamic relationships between the data (also known as relational joins).
+
+1) Geographically distributed scale-out architecture instead of expensive, monolithic architecture
+2) Agile sprints, quick schema iteration, and frequent code pushes
+3) Object-oriented programming that is easy to use and flexible
