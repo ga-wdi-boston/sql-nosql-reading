@@ -23,3 +23,13 @@ should have something to contribute.
 ## Summary
 
 <!-- your notes here -->
+
+Non-relational is better for bigger data sets where efficiency is key, when each
+property is individual, rather than relational. This is best when one object
+only has one type, rather than having multiple types.
+
+Social Media: relational database, a person can be a user, friend, poster, or
+commenter
+
+TV shows, non relational database: Show has episode, title, director, year, etc
+that don't necessarily reference anything else.
