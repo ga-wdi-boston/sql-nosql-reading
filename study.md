@@ -22,4 +22,8 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Benefits of non-relational: More scalable, higher performance, less expensive
+in many cases.
+
+Relational make sense for apps that have a lot of transactions.
+They're table-based.
