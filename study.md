@@ -23,3 +23,4 @@ should have something to contribute.
 ## Summary
 
 <!-- your notes here -->
+NOSQL is for nonrelational database that is more agile and scalable. It is more agile and easier to change. Where as SQL can be a little tougher to change around to add something down the road, NoSQL is better to change or add something differnent such as a new column or something you need stored down the line.
