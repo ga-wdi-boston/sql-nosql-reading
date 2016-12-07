@@ -22,4 +22,18 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+-   Identify use cases where relational or non-relational databases are
+    appropriate.
+    Relational databases are good for a social network app and things that require a complex set of relations.
+    Non-relational databases are good for things like storing comments and product catalog for an eCommerce website.
+
+-   List three strengths of relational databases.
+    1. Data is only stored once, making it easier to delete or modify the data
+    2. Through the use of SQL, complicated queries can be carried out.
+    3. Better for companies with the potential to grow because it's easier to add features.
+
+
+-   List three strengths of non-relational databases.
+    1. You can store any data types
+    2. You can shard data
+    3. Scaleable
