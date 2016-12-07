@@ -22,4 +22,16 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+relational database: when the application need to handle complicate date querying and analysis.
+
+non-relational database: when the data is huge and change frequently.
+
+relation database strengths:
+include rich data type.
+can handle complex data query.
+better security because the user are limited to access the table they are authorised to view.
+
+non-relation database strengths:
+storage data is fast
+capable to manage change
+support for multiple data structures
