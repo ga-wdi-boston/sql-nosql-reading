@@ -23,3 +23,8 @@ should have something to contribute.
 ## Summary
 
 <!-- your notes here -->
+
+Relational databases would be used for simpler data forms.  They are fast, easy to understand, and are not scaleable.
+
+Non-relational databases would be used for more complex data types.  They can handle large filetypes, can be
+easily scaled, and cost less to put into production.
