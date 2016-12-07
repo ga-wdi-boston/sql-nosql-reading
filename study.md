@@ -22,4 +22,16 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Relational databases are most useful when the data you need to hold is limited, needs to be read very quickly, and contains predictable data.
+
+Non-relational databases are most useful with very large databases which contain unpredictable data and need to be written very quickly.
+
+Relational databases:
+Joins can be very convenient for combining datasets
+Does not require you to duplicate data
+Fewer invalidation issues
+
+Non-relational databases:
+Can contain many types of unpredictable data
+Can be stored on multiple servers
+Can be written very quickly
