@@ -21,5 +21,12 @@ Be prepared to share your notes with others before the discussion. Everyone
 should have something to contribute.
 
 ## Summary
-
-<!-- your notes here -->
+-Use relational DBs anytime you want a multi layered data base with little to no
+duplicated data.
+-NoSQL databases allow data insertion without having a predefined schema.
+-Allows easy DB scaling because of the data being shared accroess multiple servers
+-Automatically can recover from an outage.
+-Relational data bases seem to be better suited for deeply nested data structures.
+Which allow for easier retieval of data.
+-MangoDB runs into a data duplication problem when dealing with multiple related
+data tables.s
