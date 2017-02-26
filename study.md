@@ -22,4 +22,14 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+If you don't know what kind of data/database you need, or if you'll be changing
+your database frequently as you grow, you'll want some sort of way to collect
+all types of non pre-specified data without having to run a bunch of migrations
+that may require a ton of downtime.
+
+Strengths of relational databases: stable, predictable, easy to determine what
+they're used for simply by looking at them
+
+Strengths of non-relational: more scalable, work with sprints - can be updated
+more readily, can store unstructured data, can hold multipe values (arrays)
+within fields
