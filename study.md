@@ -22,4 +22,18 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+**Identify use cases where relational or non-relational databases are appropriate**
+
+- Relational databases are more appropriate when the relationships of the data important. For instance when a user has a post which has many comments made by commenters who are also users.
+- Non-relational databases are most appropriate when all of the data you need can be contained in a single document and the relationship of that data does not matter.
+
+
+**List three strengths of relational databases.**
+- It handles data where relationships are important much better
+- Ensures data is not duplicated
+- Relational schema means you always know what attributes a given table has
+
+**List three strengths of non-relational databases.**
+- Allows for flexible and dynamic schemas
+- Data and computational load can be shared across multiple servers easily
+- Caching is often integrated and does not require a seperate chaching layer
