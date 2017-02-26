@@ -22,4 +22,16 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Relational databases are the preferred architecture when dealing with well
+defined data-sets as they provide a more structured query set. NoSQL DB's can
+handle less defined datasets as they have do not have a schema (or is it just
+more flexible?) and therefore allow for horizontal scaling. NoSQL databases
+are generally preferred when there will be frequent pushes, feature additions,
+or non-uniform data.
+
+Strengths:
+RDBMS: often faster queries, well developed/documented technology, long-time
+indusry standard
+
+NRDBMS: allow for more flexible data through horizontal scaling, geographic
+scaling options, customizable speed (at expense of safety) 
