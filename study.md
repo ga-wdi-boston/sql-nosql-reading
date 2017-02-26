@@ -22,4 +22,35 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Appropriate use cases:
+
+-   Inventory management (inventory, carts(active and stale states))
+-   Product catalog
+-   Category hierarchy
+
+Inappropriate use cases:
+
+-   Diaspora (social networks)
+-   When the structure of your data has value
+
+Strengths:
+
+-   Fast
+-   Horizontal (operations can be spread across multiple servers) / not
+vertical (meaning increasing processing power on one server, which can be
+prohibitively expensive, is not required).
+-   Works well with today's workplace development strategy, Agile. No schema
+needed. Changes can be made more easily/quickly. Underlying data model not
+required prior to populating database.
+
+Weaknesses:
+
+-   Advantages fall apart when relationships between documents are required.
+-   Cache invalidation becomes difficult, and lack of a backing store means you
+don't even have a nuclear option (wiping data and regenerating from backing
+store); this means data will eventually become inconsistent and you have no way
+to regenerate.
+-   Can make adding future features difficult, e.g., while your data may not
+need relationships at the start of the project, future features may require
+relationships/links, meaning MongoDB/NoSQL's benefits are no longer applicable
+for you.
