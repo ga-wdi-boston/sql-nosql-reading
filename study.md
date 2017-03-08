@@ -22,4 +22,18 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+-   Relational databases are appropriate any time you need to make use of a m:m
+relationship, whereas a non-relational database is good if you need to manage
+large amounts of data that have minimal relationships, or just 1:m relationships.
+
+Relational databases:
+
+-   Best for eliminating duplicate data.
+-   Best for handling any m:m relationship
+-   Have robust error handling
+
+Non-relational databases:
+
+-   Good for handling large amounts of data
+-   Retrieves large amounts of data quickly
+-   More fluid and easily mutable
