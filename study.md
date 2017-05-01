@@ -22,4 +22,4 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+https://www.evernote.com/shard/s652/sh/47808ccf-712e-45a9-9acd-dec8ba4673f5/bf3830569519ff48
