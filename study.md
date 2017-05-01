@@ -22,4 +22,7 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+noSQL is essentially just json documents. advantages are better scalability due to shards aka not needing to keep the entire database on a single server.
+replication is another advantage => KINGO USED NOSQL PRECISELY BECAUSE OF THIS
+noSQL uses RESTful (or at least couch does) APIs to perform almost all interactions
+To reference kingo again: the exact issue of relations between documents was preventing the supposed scalability.
