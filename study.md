@@ -22,4 +22,8 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+NOSQL is important because of its VERSATILITY. 
+
+Appropriate use of relational dbs: Relational databases are best used when scalability is needed, when users identify as numerous types, and when join tables are needed.
+
+Appropriate use of non-relational dbs: best used when the structure of the data is irrelevent, when data entities exist separately, and in one-to-many relationships where there is no overlap in attributes required between relationships for the database to function properly.
