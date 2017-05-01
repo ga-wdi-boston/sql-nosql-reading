@@ -22,4 +22,15 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+NoSQL allows for:
+- faster interactuions with databases
+- more scalable
+- shorter iteration cycles and quicker development
+
+
+Non-relational:
+- better across mutiple servers
+
+Relational:
+- more dynamic
+- tables can be joined easily
