@@ -22,4 +22,6 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+<!-- No sql is a tool for non relational databases, or at least for making better
+sense out of both relational and non relational databases. If I understood any of this, relational databases make keeping things in one place, and adding data on the fly difficult. However while non relational databases do those things well, they don't allow for data structure to be as defined and take extra measures added in to hold down the structure. Also I would say that single view, would benefit as a non relational data base, 
+and catalog is a great example of a relational database.  -->
